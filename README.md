@@ -26,6 +26,7 @@ The Color Chooser App is a project born out of my frustration with trying to dec
 
 - ![Python](https://img.shields.io/badge/Python-3.9-blue)
 - ![Tkinter](https://img.shields.io/badge/Tkinter-8.6-green)
+- ![Sublime Text](https://img.shields.io/badge/Sublime_Text-4-orange)
 
 ## Future Updates
 
