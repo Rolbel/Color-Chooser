@@ -15,7 +15,12 @@ The Color Chooser App is a project born out of my frustration with trying to dec
 1. Launch the Color Chooser App.
 2. Use the color picker to select your desired color.
 3. Click on any "History" buttons to get the color RGB code.
-5. Enjoy a simplified color selection process for your projects!
+4. Enjoy a simplified color selection process for your projects!
+   
+![Screenshot 2024-03-06 011450](https://github.com/Rolbel/Color-Chooser/assets/121589644/729d1220-c943-4625-bd7a-ada68ecef948)
+![Screenshot 2024-03-06 011752](https://github.com/Rolbel/Color-Chooser/assets/121589644/deb16ce5-92d9-4889-8fca-e9a9c41ac37e)
+![Screenshot 2024-03-06 011811](https://github.com/Rolbel/Color-Chooser/assets/121589644/87948320-7999-4e03-9ab6-ad7570e3ffcd)
+
 
 ## Technologies Used
 
